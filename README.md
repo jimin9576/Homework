@@ -21,4 +21,4 @@
 
 ## In-class Homework week3 Day1 #1
 #### Activity Lifecycle in action 영상 링크
-https://youtu.be/MoQXWejDppE
+https://www.youtube.com/watch?v=VMycDe2UfNs
