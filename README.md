@@ -1,5 +1,9 @@
 # Homework
 
+## 1주차 과제
+![image](https://user-images.githubusercontent.com/79952145/111397533-e5cd7b80-8704-11eb-900b-98b91cacb1b7.png)
+#### 두뇌 특성표
+
 ## In-class Homework Week 2 Day 1 #1
 #### 화면 출력 문자열 변경 결과
 ![image](https://user-images.githubusercontent.com/79952145/110565087-40a92500-8191-11eb-8faf-dee12c3585fc.png)
